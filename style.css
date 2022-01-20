@@ -86,7 +86,10 @@ p{
     font-weight: 300;
     margin: 20px 0;
 }
-
+.camera{
+    max-height: 500px;
+    padding-right: 100%;
+}
 .one-section{
     width: 50%;
     float: left;
